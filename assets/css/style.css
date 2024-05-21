@@ -8,6 +8,15 @@
     background-color: cornflowerblue;
     margin: 5rem auto;
     border-radius: 25px;
+    width: 600px;
     height: 200px;
-    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+h1{
+    padding: 1rem;
+}
+
+
